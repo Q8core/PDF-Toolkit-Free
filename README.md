@@ -2,6 +2,7 @@
 
 **A full offline PDF toolbox with Arabic + English OCR — for Windows, Linux and Android.**
 Nothing is uploaded: every tool runs on your own computer.
+English or Arabic interface — it follows your system language, and you can switch with one click.
 
 ![PDF Toolkit Free](screenshot.png)
 
@@ -11,9 +12,9 @@ Nothing is uploaded: every tool runs on your own computer.
 
 | System | File |
 |---|---|
-| Windows 10 / 11 (64-bit) | `PDF-Toolkit-Free-1.0.0-windows-x64.zip` — unzip, run `PDF Toolkit Free.exe` |
-| Linux x64 (Mint 22+, Ubuntu 24.04+, Debian 13+) | `PDF-Toolkit-Free-1.0.0-linux-x64.tar.gz` — extract, run `./"PDF Toolkit Free"` |
-| Android 7+ | `PDF-Toolkit-Free-1.0.0-android.apk` — open it on your phone and allow "Install unknown apps" |
+| Windows 10 / 11 (64-bit) | `PDF-Toolkit-Free-1.0.1-windows-x64.zip` — unzip, run `PDF Toolkit Free.exe` |
+| Linux x64 (Mint 22+, Ubuntu 24.04+, Debian 13+) | `PDF-Toolkit-Free-1.0.1-linux-x64.tar.gz` — extract, run `./"PDF Toolkit Free"` |
+| Android 7+ | `PDF-Toolkit-Free-1.0.1-android.apk` — open it on your phone and allow "Install unknown apps" |
 
 Checksums are in `SHA256SUMS.txt` on the release page.
 
